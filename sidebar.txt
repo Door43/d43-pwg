@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pwg:home|Door43 (pwg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pwg|d43-pwg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pwg/archive/master.zip|d43-pwg.zip]]
+
+**Recent Changes**
+{{changes>ns = pwg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pwg|Ethnologue data]]
+
